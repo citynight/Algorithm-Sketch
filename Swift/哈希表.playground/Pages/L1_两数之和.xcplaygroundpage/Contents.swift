@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 import Foundation
 
 /*
@@ -34,3 +36,5 @@ class Solution {
         return []
     }
 }
+
+//: [Next](@next)

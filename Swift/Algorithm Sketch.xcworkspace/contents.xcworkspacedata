@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "&#x54c8;&#x5e0c;&#x8868;">
+      <FileRef
+         location = "group:&#x54c8;&#x5e0c;&#x8868;.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "&#x94fe;&#x8868;">
+      <FileRef
+         location = "group:&#x94fe;&#x8868;.playground">
+      </FileRef>
+   </Group>
+</Workspace>
