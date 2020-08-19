@@ -8,7 +8,7 @@ class Solution {
         if s.count == 0 {
             return 0
         }
-        var chars = Array(s)
+        let chars = Array(s)
         for i in 0..<s.count {
             helper(chars,i,i)
             helper(chars,i,i+1)
