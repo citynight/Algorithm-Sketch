@@ -32,12 +32,12 @@ public class Solution {
             return board;
         }
 
-        // 如果一个没有相邻地雷的空方块（'E'）被挖出，修改它为（'B'），并且所有和其相邻的未挖出方块都应该被递归地揭露。
+        // 如果一个没有相邻地雷的空方块（'E'）被挖出，修改它为（'B'）
         board[row][col] = 'B';
         for (int[] dir : dirs) {
             int newRow = dir[0] + row;
             int newCol = dir[1] + col;
-            // 如果周围是未被揭开的雷，周围雷的数量递增
+            // 并且所有和其相邻的未挖出方块都应该被递归地揭露。
             if (newRow >= 0 && newCol >= 0 && newRow < m && newCol < n && board[newRow][newCol] == 'E') {
                 updateBoard(board,new int[]{newRow,newCol});
             }
