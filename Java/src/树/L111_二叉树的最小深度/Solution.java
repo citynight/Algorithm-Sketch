@@ -1,4 +1,4 @@
-package 深度优先.L111_二叉树的最小深度;
+package 树.L111_二叉树的最小深度;
 
 import Common.TreeNode;
 

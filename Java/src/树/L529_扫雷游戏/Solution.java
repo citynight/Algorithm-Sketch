@@ -1,4 +1,4 @@
-package 深度优先.L529_扫雷游戏;
+package 树.L529_扫雷游戏;
 
 public class Solution {
     // 坐标相邻的8个方向 上，下，左，右，左上，左下，右上，右下

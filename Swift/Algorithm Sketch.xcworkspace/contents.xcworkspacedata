@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "&#x6811;">
+      <FileRef
+         location = "group:&#x6811;.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "&#x54c8;&#x5e0c;&#x8868;">
       <FileRef
          location = "group:&#x54c8;&#x5e0c;&#x8868;.playground">
