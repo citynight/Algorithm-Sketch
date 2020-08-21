@@ -20,3 +20,9 @@ Algorithm sketch (算法素描)
 |:-------:|:----:|:-----:|
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [Java Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Java/src/%E9%93%BE%E8%A1%A8/L2_%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/Solution.java) | [Swift Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Swift/%E9%93%BE%E8%A1%A8.playground/Pages/L2_%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.xcplaygroundpage/Contents.swift) |
 | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Java/src/%E9%93%BE%E8%A1%A8/L109_%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%8D%A2%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/Solution.java) | [Swift Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Swift/%E9%93%BE%E8%A1%A8.playground/Pages/L109%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%8D%A2%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.xcplaygroundpage/Contents.swift) |
+
+### Tree
+
+| 题目      | Java | Swift |
+|:-------:|:----:|:-----:|
+| [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tr) | [Java Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Java/src/%E6%A0%91/L111_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6/Solution.java) | [Swift Solution](https://github.com/lxzzzzzz/Algorithm-Sketch/blob/master/Swift/%E6%A0%91.playground/Pages/L111_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.xcplaygroundpage/Contents.swift) |
