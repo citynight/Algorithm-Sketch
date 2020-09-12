@@ -30,7 +30,7 @@ public class Solution {
                     queue.add(cur.left);
                 }
                 if (cur.right != null) {
-                    queue.add(cur.right)
+                    queue.add(cur.right);
                 }
             }
             res.add(sum/size);
