@@ -29,4 +29,11 @@
          location = "group:&#x56de;&#x6587;.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "&#x6570;&#x7ec4;">
+      <FileRef
+         location = "group:&#x6570;&#x7ec4;.playground">
+      </FileRef>
+   </Group>
 </Workspace>
